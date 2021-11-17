@@ -11,6 +11,7 @@
 - Henry Wang - [Language of Pi](https://henryiswhy.tumblr.com/post/668073280168706048/programming-from-a-to-z-final-project-proposals)
 - Bowei - [Bot](https://www.boweixu.com/post/a-bot)
 - Casta - [K.K.Slider music album bot pro](https://casta.notion.site/Final-Proposal-K-K-Slider-Bot-pro-8743807cbca140398e054e2bf41ad9b3)
+- Jeeyoon Hyun - [Twitter Bot Idea Dump](https://blog.jeeyoonhyun.com/2021/11/17/twitter-bot-idea-dump/)
 
 ### November 24
 
